@@ -1,5 +1,5 @@
 # Simple-Web-Server
-Simple web server with written in Python using the Socket and Select modules to support both persistent and non-persistent HTTP connections with limited timeout capabilities. <br>
+Simple web server written in Python using the Socket and Select modules to support both persistent and non-persistent HTTP connections with limited timeout capabilities. <br>
 
 Py files in sws.py and client.py<br>
 
